@@ -1,3 +1,6 @@
 [submodule "themes/tale"]
 	path = themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
+[submodule "luanadotcom.github.io"]
+	path = luanadotcom.github.io
+	url = git@github.com:luanadotcom/luanadotcom.github.io.git

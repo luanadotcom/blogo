@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+printf "\033[0;32mDeploying updates to submodule repo...\033[0m\n"
 
 # Deploy changes to submodule repo
 hugo
@@ -14,6 +14,10 @@ if [ -n "$1" ]; then
     fi
 git commit -m "$message"
 git push origin master
+
+
+printf "\033[0;32mDeploying updates to this repo...\033[0m\n"
+sleep 2
 
 # Deploy changes to this repo
 cd ..

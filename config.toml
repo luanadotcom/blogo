@@ -4,3 +4,7 @@ title = "Overthinking blogging"
 theme = "tale"
 publishDir = "luanadotcom.github.io"
 sectionPagesMenu = "main"
+enableEmoji = true
+
+[Author]
+name = "Luana"

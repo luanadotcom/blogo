@@ -1,7 +1,7 @@
 ---
 title: "Moving the Blog Around"
 date: 2019-10-14T13:24:25+01:00
-draft: true
+draft: false
 ---
 
 I have played around the idea of having a blog to post simple stuff I'm learning about and have given it a shot a couple of times during the past year. I've started out playing with [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) but I ended up leaving it aside and got back to it when I had to renew my domain. 

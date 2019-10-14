@@ -1,6 +1,7 @@
 ---
 title: "First Post on Hugo"
 date: 2019-10-13T00:40:59+01:00
+author: "Luana"
 draft: false
 ---
 

@@ -2,7 +2,7 @@ baseURL = "https://lngv.me/"
 languageCode = "en-uk"
 title = "Overthinking blogging"
 theme = "tale"
-publishDir = "luanadotcom.github.io"
+publishDir = "public"
 sectionPagesMenu = "main"
 enableEmoji = true
 

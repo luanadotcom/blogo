@@ -4,7 +4,7 @@ date: 2020-07-17T06:34:29+01:00
 draft: false
 ---
 
-![alt text](sourdough_cover.jpg "Loaf")
+![alt text](static/sourdough_cover.jpg "Loaf")
 
 _The world will have to take yet another sourdough bread recipe._
 
@@ -20,7 +20,7 @@ Once I start the mixing I'm pretty much kitchen bound up until almost midnight, 
 
 I then leave my dough proofing in the fridge until the next morning, I wake up anytime between 5.30am - 6am and turn on the oven. I only take the dough out of the fridge when I place it into the ironcast so it gets around 7 hours of proofing. I have been having a good rising with this time but have tested less hours previously and with good results as well.
 
-![alt text](schedule.jpg "Alarms and alarms")
+![alt text](static/schedule.jpg "Alarms and alarms")
 
 _I keep all my alarms set and if I bake on a different day I just change the day of the week when they're set_
 

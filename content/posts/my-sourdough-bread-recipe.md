@@ -4,7 +4,7 @@ date: 2020-07-17T06:34:29+01:00
 draft: false
 ---
 
-![alt text](static/sourdough_cover.jpg "Loaf")
+![alt text](/sourdough_cover.jpg "Loaf")
 
 _The world will have to take yet another sourdough bread recipe._
 
@@ -57,3 +57,15 @@ Put it in the fridge and leave it overnight (7 hours) to bake first thing in the
 Pre-heat the oven at 260 degrees celcius - put your ironcast pot in the oven and leave it to heat for 30 minutes. Once ready, put the dough in the pot and score it. Put it in the oven for 20 minutes for the spring oven.
 
 After that, take off the lid of the pot and lower the oven temperature to 230 degrees. Leave the bread in for 25 minutes more or as much as it works for you to get it to a nice brown tone.
+
+## Final result
+
+Now just leave it at the counter cooling for some 45 minutes - 1 hour and enjoy taking tonnes of photos of it! :)
+
+![alt text](/finalresultloaf.jpg "Lovely loaf")
+
+Uh lala!
+
+![alt text](/finalresultsliced.jpg "Sliced loaf")
+
+

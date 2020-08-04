@@ -18,7 +18,7 @@ I find that the organising time you put into making a sourdough bread is yet ano
 I like to bake in the early morning for breakfast so my routine starts on the morning before, feeding my levain at around 10am. This way I can bake any day of the week as the dough work is always after work hours. I start mixing the flour and water for autolyse at around 8.5 - 9 hours after feeding my levain as its peak is reached around 9 hours after being fed. You can adjust this easily based on your levain's cycle.
 Once I start the mixing I'm pretty much kitchen bound up until almost midnight, when I do my final shaping. I find the for my recipe 6 rounds of stretching and folding work better, with a 30 minutes rest in between. 
 
-I then leave my dough proofing in the fridge until the next morning, I wake up anytime between 5.30am - 6am and turn on the oven. I only take the dough out of the fridge when I place it into the ironcast so it gets around 7 hours of proofing. I have been having a good rising with this time but have tested less hours previously and with good results as well.
+I then leave my dough proofing in the fridge until the next morning, I wake up anytime between 5.30am - 6am and turn on the oven. I only take the dough out of the fridge when I place it into the cast iron pot so it gets around 7 hours of proofing. I have been having a good rising with this time but have tested less hours previously and with good results as well.
 
 ![alt text](/schedule.jpg "Alarms and alarms")
 
@@ -28,7 +28,7 @@ _I keep all my alarms set and if I bake on a different day I just change the day
 
 * 420g strong bread flour
 * 80g wholemeal wheat flour
-* 335g water at 40 degrees celcius
+* 335g water at 40 degrees celsius
 * 150g levain
 * 11g salt
 
@@ -54,7 +54,7 @@ Put it in the fridge and leave it overnight (7 hours) to bake first thing in the
 
 ## Baking
 
-Pre-heat the oven at 260 degrees celcius - put your ironcast pot in the oven and leave it to heat for 30 minutes. Once ready, put the dough in the pot and score it. Put it in the oven for 20 minutes for the spring oven.
+Pre-heat the oven at 260 degrees celsius - put your cast iron pot in the oven and leave it to heat for 30 minutes. Once ready, put the dough in the pot and score it. Put it in the oven for 20 minutes for the spring oven.
 
 After that, take off the lid of the pot and lower the oven temperature to 230 degrees. Leave the bread in for 25 minutes more or as much as it works for you to get it to a nice brown tone.
 

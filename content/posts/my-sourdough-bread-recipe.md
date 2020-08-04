@@ -16,9 +16,9 @@ _The world will have to take yet another sourdough bread recipe._
 I find that the organising time you put into making a sourdough bread is yet another challenge on the making of these marvelous pieces of bakery. Once I got my head around the best schedule to bake I have created alarms for each step so it is easy to follow up.
 
 I like to bake in the early morning for breakfast so my routine starts on the morning before, feeding my levain at around 10am. This way I can bake any day of the week as the dough work is always after work hours. I start mixing the flour and water for autolyse at around 8.5 - 9 hours after feeding my levain as its peak is reached around 9 hours after being fed. You can adjust this easily based on your levain's cycle.
-Once I start the mixing I'm pretty much kitchen bound up until almost midnight, when I do my final shaping. I find the for my recipe 6 rounds of stretching and folding work better, with a 30 minutes rest in between. 
+Once I start the mixing I'm pretty much kitchen bound up until almost midnight, when I do my final shaping. I find that for my recipe 6 rounds of stretching and folding work better, with a 30 minutes rest in between each round. 
 
-I then leave my dough proofing in the fridge until the next morning, I wake up anytime between 6.30am - 6am and turn on the oven. I only take the dough out of the fridge when I place it into the cast iron pot so it gets around 7 hours of proofing. I have been having a good rising with this time but have tested less hours previously with good results as well.
+I then leave my dough proofing in the fridge until the next morning, I wake up anytime between 5.30am - 6am and turn on the oven. I only take the dough out of the fridge when I place it into the cast iron pot so it gets around 7 hours of proofing. I have been having a good rising with this time but have tested less hours previously with good results as well.
 
 ![alt text](/schedule.jpg "Alarms and alarms")
 

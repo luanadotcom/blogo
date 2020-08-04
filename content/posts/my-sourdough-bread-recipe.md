@@ -46,7 +46,7 @@ Do each round of stretching every 30 minutes.
 
 ## Shaping
 
-30 minutes after the last folding put the dough in the counter and start shaping it, creating tension on the gluten at the top of the dough. Don't over do it! Once the ball seems right leave it resting in the counter for 20 minutes. It should spread a bit but not too much.
+30 minutes after the last folding put the dough on the counter and start shaping it, creating tension on the gluten at the top of the dough. Don't over do it! Once the ball seems right leave it resting in the counter for 20 minutes. It should spread a bit but not too much.
 
 Once that's done turn it around and do the final shaping, folding it over itself to create a boule shape. Once folded do a bit more of shaping to assure the tension on the dough and put it in the proofing basket once you're happy with it. 
 

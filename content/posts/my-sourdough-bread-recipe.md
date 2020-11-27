@@ -26,17 +26,17 @@ _I keep all my alarms set and if I bake on a different day I just change the day
 
 ## Ingredients:
 
-* 420g strong bread flour
-* 80g wholemeal wheat flour
-* 335g water at 40 degrees celsius
+* 410g strong bread flour
+* 90g wholemeal wheat flour
+* 355g water at 40 degrees celsius
 * 150g levain
-* 11g salt
+* 12g salt
 
 ## Mixing the ingredient
 
-Mix 300g of the water with both flours. Mix until it becomes a more homogeneous ball and leave it to rest for 35 minutes. This is the autolyse.
+Mix 315g of the water with both flours. Mix until it becomes a more homogeneous ball and leave it to rest for 35 minutes. This is the autolyse.
 
-On another container mix the other 35g of water with the salt and once autolyse is done add it to the dough as well as the levain. Mix them all well until all is absorbed by the dough, feeling like an homogeneous shaggy dough ball.
+On another container mix the other 40g of water with the salt and once autolyse is done add it to the dough as well as the levain. Mix them all well until all is absorbed by the dough, feeling like an homogeneous shaggy dough ball.
 Once that's done leave the dough to rest for 30 minutes.
 
 ## Stretch and fold
